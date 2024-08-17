@@ -3,7 +3,8 @@
 <h1 align="center">नमस्ते (Namaste), I'm Dhruvi Prajapati</h1>
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems, and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation, and Automation :robot:
+A 21Y/O Software 🌈 and Web Developer 🎯 from India. I'm passionate about Full-Stack Web Development 📊. I like automating things, building pipelines, exploring scalability problems, and improving efficiency and performance. Strong Advocate for 📜 Open Source, ☁️ Cloud Computing, 🚀 DevOps, 🆕 Innovation, and 🤖 Automation.
+
 
 ![age](https://img.shields.io/badge/age-21-pink)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
