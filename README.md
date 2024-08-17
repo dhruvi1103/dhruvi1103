@@ -14,7 +14,7 @@ A 21Y/O Software 🌈 and Web Developer 🎯 from India. I'm passionate about Fu
 
 - 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me **prajapatidhruvi1103@gmail.com**
+- 📫 How to reach me **[prajapatidhruvi1103@gmail.com](mailto:prajapatidhruvi1103@gmail.com)**
 - 😄 Pronouns: she/her
 
 <br/>
